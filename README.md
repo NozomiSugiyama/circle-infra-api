@@ -1,4 +1,4 @@
-# rnrr
+# circle-infra-api
 Rabbit null API
 
 ## Setup
